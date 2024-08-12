@@ -50,4 +50,4 @@ pip install -r requirements.txt
 
 ## Contact
 
-For any inquiries or support, please contact [nigelkanyesi.@gmail.com](mailto:nigelkanyesi@gmail.com) or [munyaamazongonda.@gmail.com](mailto:munyaamazongonda@gmail.com).
+For any inquiries or support, please contact [nigelkanyesi.@gmail.com](mailto:nigelkanyesi@gmail.com) or [munyamarz@proton.me](mailto:munyaamazongonda@gmail.com).
